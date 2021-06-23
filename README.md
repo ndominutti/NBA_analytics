@@ -11,5 +11,5 @@ This is the backup code for the post:
  * <b>\images</b>
       |-> folder that contains all the images saved from SportsAnalytics.ipynb 
  * <b>\data</b>
-      |-> folder that contains all the data gathered from API_connections.ipynb 
+      |-> folder that contains all the data gathered from API_connection.ipynb 
 </pre>
