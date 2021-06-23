@@ -1,6 +1,6 @@
 # NBA_analytics
 
-This is the backup code for the post: 
+This is the backup code for the post: https://ndominutti.medium.com/sports-analytics-nba-api-facundo-campazzo-e3f9309fdf50
 
 <h3>Repo components:</h3>
 <pre>
